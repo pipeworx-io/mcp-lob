@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/lob",
   "title": "Lob",
   "description": "Lob MCP — US address verification, bulk verification, and autocompletion",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/lob",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-lob",

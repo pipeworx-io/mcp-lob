@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-lob",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Lob MCP — US address verification, bulk verification, and autocompletion",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-cb18a2248e091862f8cdad29a1863921ed845a296989519af387be233063c7c3",
+    "sourceCommit": "adb69d997f82a62e8e22b594488c7d04a227db35"
   }
 }
