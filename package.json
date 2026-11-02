@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-lob",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Lob MCP — US address verification, bulk verification, and autocompletion (docs.lob.com). BYO-key: pass your Lob API key via `_apiKey`.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "lob",
     "gatewaySlug": "lob",
-    "sourceHash": "v1-06ebabfe65228c48773796341c5fe4ba95e42ca54681646892c47b2db7e65f17",
-    "sourceCommit": "5c89d6abb778d45da5d92002eb251978622bedf9"
+    "sourceHash": "v1-b2b028d0c59c9df5ebc1d193e46122b7780621711b53b8997dbb1f800770e1f2",
+    "sourceCommit": "236b0a46d91f343fe094da9f499c378e88f78312"
   }
 }
